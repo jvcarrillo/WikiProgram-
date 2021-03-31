@@ -1,0 +1,19 @@
+{
+  "plataformas": [
+    {
+      "nombre": "Android"
+    },
+    {
+      "nombre": "Base de Datos"
+    },
+    {
+      "nombre": "PHP"
+    },
+    {
+      "nombre": ".NET"
+    },
+    {
+      "nombre": "C#"
+    }
+  ]
+}
