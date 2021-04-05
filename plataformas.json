@@ -1,18 +1,18 @@
 {"plataformas" :[
     {
-      "nombre": "Android"
+      "plataforma": "Android"
     },
     {
-      "nombre": "Base de Datos"
+      "plataforma": "Base de Datos"
     },
     {
-      "nombre": "PHP"
+      "plataforma": "PHP"
     },
     {
-      "nombre": ".NET"
+      "plataforma": ".NET"
     },
     {
-      "nombre": "C#"
+      "plataforma": "C#"
     }
  ]
 }
