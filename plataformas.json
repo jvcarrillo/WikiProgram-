@@ -1,18 +1,8 @@
 {"plataformas" :[
-    {
-      "plataforma": "Android"
-    },
-    {
-      "plataforma": "Base de Datos"
-    },
-    {
-      "plataforma": "PHP"
-    },
-    {
-      "plataforma": ".NET"
-    },
-    {
-      "plataforma": "C#"
-    }
+      "Android",
+      "Base de Datos",
+      "PHP",
+      ".NET",
+      "C#"
  ]
 }
