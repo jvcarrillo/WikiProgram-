@@ -1,5 +1,4 @@
 {
-  "plataformas": [
     {
       "nombre": "Android"
     },
@@ -15,5 +14,4 @@
     {
       "nombre": "C#"
     }
-  ]
 }
