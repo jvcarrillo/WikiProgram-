@@ -1,6 +1,13 @@
- {
-     "data" : [
-         { "from" : { "name" : "xxx", ... }, "message" : "yyy", ... },
-         { "from" : { "name" : "ppp", ... }, "message" : "qqq", ... },
-     ]
- }
+{"Employee":
+   [
+     {"id": "101",
+      "name": "sonoo jaiswa",
+      "salary": "50000"
+     },
+     {
+      "id": "102",
+      "name": "vimal jaiswal",
+      "salary": "600000"
+     }
+   ]
+}
