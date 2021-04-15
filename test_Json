@@ -1,13 +1,8 @@
-{"Employee":
-   [
-     {"id": "101",
-      "name": "sonoo jaiswa",
-      "salary": "50000"
-     },
-     {
-      "id": "102",
-      "name": "vimal jaiswal",
-      "salary": "600000"
-     }
-   ]
+{ "Plataformas" :[
+      {"plataforma":"Android"},
+      {"plataforma":"Base de Datos"},
+      {"plataforma": "PHP"},
+      {"plataforma":".NET"},
+      {"plataforma":"C#"}
+ ]
 }
