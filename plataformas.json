@@ -1,8 +1,8 @@
-{"Plataforma": [
-      "Android",
-      "Base de Datos",
-      "PHP",
-     ".NET",
-     "C#"]
+{ "Plataformas" :[
+      {"plataforma":"Android"},
+      {"plataforma":"Base de Datos"},
+      {"plataforma": "PHP"},
+      {"plataforma":".NET"},
+      {"plataforma":"C#"}
+ ]
 }
-
