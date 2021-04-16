@@ -1,8 +1,12 @@
-{ "Plataformas" :[
-      {"plataforma":"Android"},
-      {"plataforma":"Base de Datos"},
-      {"plataforma": "PHP"},
-      {"plataforma":".NET"},
-      {"plataforma":"C#"}
- ]
+{
+    "name":"shubham",
+    "favourite no":4,
+    "is programmer":"true",
+    "age":19,
+    "address":{
+               "street":"iel colony",
+               "city":"bokaro",
+               "state":"jharkhand",
+               "postal code":829112
+              }
 }
